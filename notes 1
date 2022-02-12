@@ -1,0 +1,16 @@
+
+/**
+ customer {
+    id:
+    account number : required 
+    name : required 
+    balance :  required 
+    transactions : [
+        {
+            type : addBalance / withDraw 
+        input : Balance
+        }
+    ]
+
+ }
+ */
